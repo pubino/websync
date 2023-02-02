@@ -2,6 +2,10 @@
 
 A simple PowerShell script to stage, commit, and push to a pre-existing repo from Windows.
 
+## Prerequisites
+
+* PowerShell script execution enabled via `Set-ExecutionPolicy RemoteSigned`.
+
 ## Installation
 
 Download the file `websync.ps1`.  Customize the default value for `$LocalRepoPath`.
