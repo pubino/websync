@@ -10,7 +10,7 @@ Download the file `websync.ps1`.  Customize the default value for `$LocalRepoPat
 
 Either right click the script and click "Run with Powershell" or open a Terminal to the script's working directory and type `.\websync.ps1`.
 
-Optional parameters are -Message for a custom commit message and -LocalRepoPath for the folder of the repo.
+Optional parameters are `-Message` for a custom commit message and `-LocalRepoPath` for the folder of the repo.
 
 ## Details
 
