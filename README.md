@@ -16,4 +16,4 @@ Optional parameters are `-Message` for a custom commit message and `-LocalRepoPa
 
 The script checks to see whether the git command is in the `PATH`.  If not, it installs the package `Git.Git` via [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget) and prompts to re-run the script either from File Explorer or a new Terminal session.
 
-If the git command is available, the script just runs through a staging, commit, and push at the `$LocalRepoPath`.
+If the `git` command is available, the script just runs through a staging, commit, and push at the `$LocalRepoPath`.
