@@ -4,7 +4,7 @@ A simple PowerShell script to stage, commit, and push to a pre-existing repo fro
 
 ## Installation
 
-Download the file `websync.ps1`.
+Download the file `websync.ps1`.  Customize the default value for `$LocalRepoPath`.
 
 ## Usage
 
