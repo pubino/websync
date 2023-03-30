@@ -1,6 +1,6 @@
 # Websync
 
-A simple PowerShell script to stage, commit, and push to a pre-existing repo from Windows.
+A simple PowerShell script to stage, commit, and push to a pre-existing repo from Windows File Explorer.
 
 ## Prerequisites
 
